@@ -18,6 +18,7 @@
 
 
 #include <stdlib.h>
+#include <zlib.h>
 
 /* 
 * ===  FUNCTION  =============================================================
@@ -27,5 +28,5 @@
 */
 int main (int argc, char *argv[])
 {
- return EXIT_SUCCESS;
+    return 0;
 }				/* ----------  end of function main  ---------- */
