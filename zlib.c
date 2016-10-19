@@ -28,5 +28,6 @@
 */
 int main (int argc, char *argv[])
 {
+    compress();
     return 0;
 }				/* ----------  end of function main  ---------- */
