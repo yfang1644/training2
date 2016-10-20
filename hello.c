@@ -1,12 +1,12 @@
 /*
  * ============================================================================
  *
- *       Filename:  zlib.c
+ *       Filename:  hello.c
  *
  *    Description:  
  *
  *        Version:  1.0
- *        Created:  10/19/2016 10:07:31 PM
+ *        Created:  10/20/2016 07:52:22 PM
  *       Revision:  none
  *       Compiler:  gcc
  *
@@ -17,6 +17,8 @@
  */
 
 
+#include <stdlib.h>
+
 /* 
 * ===  FUNCTION  =============================================================
 *         Name:  main
@@ -25,5 +27,5 @@
 */
 int main (int argc, char *argv[])
 {
-    return 0;
+ return EXIT_SUCCESS;
 }				/* ----------  end of function main  ---------- */
